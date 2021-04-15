@@ -1,2 +1,3 @@
 # passive-tracer-4dvar
-Data assimilation project
+Variational bias correction inside
+4D-Var : Application to a simplified problem
